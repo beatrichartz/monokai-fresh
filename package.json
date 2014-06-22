@@ -1,0 +1,12 @@
+{
+  "name": "monokai-fresh",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A monokai theme - without italics",
+  "repository": "https://github.com/beatrichartz/monokai-french",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.39.0"
+  }
+}
